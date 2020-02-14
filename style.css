@@ -1,0 +1,40 @@
+body {
+    background-color: #e6e6e6;
+    text-align: center;
+}
+
+:root {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#img-div {
+    background-color: white;
+    text-align: center;
+}
+
+li {
+    margin-top: 3%;
+    margin-left: 30%;
+    text-align: left;
+    margin-right: 30%;
+}
+
+.quote {
+    font-weight: normal;
+    font-style: italic;
+}
+
+blockquote {
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#tribute-info {
+    margin-top: 5%;
+}
+
+.link-class {
+    margin-top: 2%;
+}
